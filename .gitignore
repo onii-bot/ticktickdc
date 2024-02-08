@@ -1,1 +1,4 @@
 .env
+.token-oauth
+__pycache__/
+temp.py
